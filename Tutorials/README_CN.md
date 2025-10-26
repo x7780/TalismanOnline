@@ -1,10 +1,10 @@
 # 教程目录
 
-## 🌐 语言选择
+## 🌐 语言 / Language / Wika / Idioma
 
 <div align="center">
 
-**选择语言 / Choose Language:**
+**选择语言 / Choose Language / Piliin ang Wika / Escolha o Idioma:**
 
 [![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README.md)
 [![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README_CN.md)
