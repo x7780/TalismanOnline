@@ -1,5 +1,20 @@
 # TalismanOnline Proyekto ng Pagbabahagi ng Teknolohiya
 
+## 🌐 Languages / 语言 / Mga Wika / Idiomas
+
+<div align="center">
+
+**Choose your language / 选择语言 / Piliin ang iyong wika / Escolha seu idioma:**
+
+[![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README.md)
+[![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README_CN.md)
+[![Filipino](https://img.shields.io/badge/Filipino-PH-green?style=flat-square)](README_PH.md)
+[![Português (BR)](https://img.shields.io/badge/Português%20(BR)-BR-yellow?style=flat-square)](README_PT_BR.md)
+
+</div>
+
+---
+
 ## Pangkalahatang-ideya ng Proyekto
 
 Ito ay isang bukas na proyekto na nakatuon sa pagbabahagi ng **TalismanOnline** (Pangalan sa Intsik: **蜀门**) na may kaugnayang teknolohiya, mga modelo, mapa, at mga mapagkukunan. Nangangakong kami na mangolekta, mag-organisa, at magbahagi ng mga teknikal na materyal na may kaugnayan sa pagbuo ng TalismanOnline, na nagbibigay ng mahahalagang mapagkukunan ng pag-aaral para sa mga tagahanga ng pagbuo ng laro at mga mananaliksik sa teknolohiya.

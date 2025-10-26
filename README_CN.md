@@ -1,0 +1,140 @@
+# TalismanOnline 技术分享项目
+
+## 🌐 Languages / 语言 / Mga Wika / Idiomas
+
+<div align="center">
+
+**Choose your language / 选择语言 / Piliin ang iyong wika / Escolha seu idioma:**
+
+[![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README.md)
+[![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README_CN.md)
+[![Filipino](https://img.shields.io/badge/Filipino-PH-green?style=flat-square)](README_PH.md)
+[![Português (BR)](https://img.shields.io/badge/Português%20(BR)-BR-yellow?style=flat-square)](README_PT_BR.md)
+
+</div>
+
+---
+
+## 📋 项目简介
+
+这是一个专注于分享 **TalismanOnline**（中文名：**蜀门**）相关技术、模型、地图等资源的开放项目。我们致力于收集、整理和分享蜀门游戏开发相关的技术资料，为游戏开发爱好者和技术研究人员提供有价值的学习资源。
+
+## 🎮 关于蜀门 (TalismanOnline)
+
+蜀门是一款经典的MMORPG游戏，以其独特的东方玄幻风格、丰富的职业系统和精彩的PVP玩法而闻名。游戏采用先进的3D引擎技术，拥有精美的角色模型、宏大的场景地图和流畅的战斗系统。
+
+## 📁 项目内容
+
+### 🎮 游戏模型资源
+- **角色模型**：各职业角色3D模型，包括战士、法师、道士等
+- **装备模型**：武器、防具、饰品等装备3D模型
+- **怪物模型**：游戏中的各种怪物和BOSS模型
+- **坐骑模型**：各类坐骑和宠物模型
+
+### 🗺️ 地图资源
+- **场景地图**：游戏内各个场景的地图数据
+- **地形数据**：高度图、纹理贴图等地形相关信息
+- **建筑模型**：游戏中的建筑物、地标3D模型
+- **环境元素**：植被、岩石、水体等环境装饰模型
+
+### 💻 技术资料
+- **客户端技术**：游戏客户端架构、渲染技术、资源管理
+- **服务器技术**：服务器架构、网络通信、数据库设计
+- **文件格式**：游戏资源文件格式解析
+- **工具开发**：模型查看器、地图编辑器、资源提取工具
+
+### 🔧 开发工具
+- **模型工具**：3D模型查看、转换、编辑工具
+- **地图工具**：地图编辑器、场景构建工具
+- **资源工具**：资源提取、打包、解包工具
+- **调试工具**：游戏调试、性能分析工具
+
+## 🛠️ 技术栈
+
+- **3D引擎**：自研3D引擎，支持高级渲染特性
+- **编程语言**：C++、C#、Python
+- **图形技术**：DirectX、OpenGL、Shader编程
+- **文件格式**：自定义资源格式、标准3D格式支持
+- **网络技术**：TCP/IP、UDP网络通信
+
+## 📂 项目结构
+
+```
+TalismanOnline/
+├── Models/          # 3D模型资源
+│   ├── Characters/  # 角色模型
+│   ├── Monsters/    # 怪物模型
+│   ├── Weapons/     # 武器模型
+│   └── Environments/# 环境模型
+├── Maps/            # 地图资源
+│   ├── Terrains/    # 地形数据
+│   ├── Buildings/   # 建筑模型
+│   └── Scenes/      # 场景数据
+├── Tools/           # 开发工具
+│   ├── ModelViewer/ # 模型查看器
+│   ├── MapEditor/   # 地图编辑器
+│   └── Extractor/   # 资源提取工具
+├── Versions/        # 版本管理
+├── Scripts/         # 脚本工具
+│   ├── Python/      # Python脚本
+│   └── Shell/       # Shell脚本
+└── Plugins/         # 插件扩展
+```
+
+## 🚀 快速开始
+
+### 环境要求
+- Windows 7/8/10/11
+- Visual Studio 2015+ (用于编译C++工具)
+- Python 3.6+ (用于运行脚本工具)
+- DirectX 9.0c+ 或 OpenGL 3.0+
+
+### 基本使用
+1. 克隆项目到本地
+2. 安装必要的依赖和运行环境
+3. 使用相应的工具查看模型或编辑地图
+4. 参考文档了解文件格式和技术细节
+
+## 🤝 贡献指南
+
+我们欢迎所有对蜀门技术感兴趣的朋友参与贡献！
+
+### 如何贡献
+1. **Fork** 本项目
+2. 创建您的功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交您的更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开一个 Pull Request
+
+### 贡献内容
+- 🐛 **Bug修复**：修复工具或文档中的错误
+- ✨ **新功能**：添加新的工具或功能
+- 📚 **文档完善**：改进或补充技术文档
+- 🎨 **资源分享**：分享新的模型或地图资源
+- 🔧 **工具开发**：开发新的实用工具
+
+## 💬 技术交流
+
+- **Issues**：使用GitHub Issues报告问题或提出建议
+- **Discussions**：参与技术讨论和经验分享
+- **Wiki**：查看和编辑项目维基文档
+
+## ⚠️ 注意事项
+
+**重要提醒**：
+- 本项目仅供学习和研究使用
+- 请勿将项目资源用于商业用途
+- 尊重原始游戏的知识产权
+- 分享内容时请遵守相关法律法规
+
+## 📄 许可证
+
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 🙏 致谢
+
+感谢所有为这个项目做出贡献的朋友，以及蜀门游戏开发团队的辛勤工作。
+
+---
+
+**免责声明**：本项目为技术研究和学习交流目的，所有游戏资源版权归原游戏开发商所有。请在遵守相关法律法规的前提下使用本项目资源。
