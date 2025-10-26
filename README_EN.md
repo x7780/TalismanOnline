@@ -1,28 +1,14 @@
 # TalismanOnline Technical Sharing Project
 
-## 🌐 Languages / 语言 / Mga Wika
-
-<div align="center">
-
-**Choose your language / 选择语言 / Piliin ang iyong wika:**
-
-[![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README_EN.md)
-[![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README.md)
-[![Filipino](https://img.shields.io/badge/Filipino-PH-green?style=flat-square)](README_PH.md)
-
-</div>
-
----
-
-## 📋 Project Overview
+## Project Overview
 
 This is an open project focused on sharing **TalismanOnline** (Chinese name: **蜀门**) related technologies, models, maps, and resources. We are committed to collecting, organizing, and sharing technical materials related to TalismanOnline game development, providing valuable learning resources for game development enthusiasts and technical researchers.
 
-## 🎮 About TalismanOnline (蜀门)
+## About TalismanOnline (蜀门)
 
 TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy style, rich career systems, and exciting PVP gameplay. The game uses advanced 3D engine technology, featuring exquisite character models, grand scene maps, and smooth combat systems.
 
-## 📁 Project Content
+## Project Content
 
 ### 🎮 Game Model Resources
 - **Character Models**: 3D models of various professions, including warriors, mages, priests, etc.
@@ -48,7 +34,7 @@ TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy sty
 - **Resource Tools**: Resource extraction, packaging, and unpacking tools
 - **Debug Tools**: Game debugging and performance analysis tools
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **3D Engine**: Self-developed 3D engine with advanced rendering features
 - **Programming Languages**: C++, C#, Python
@@ -56,7 +42,7 @@ TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy sty
 - **File Formats**: Custom resource formats, standard 3D format support
 - **Network Technology**: TCP/IP, UDP network communication
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 TalismanOnline/
@@ -80,7 +66,7 @@ TalismanOnline/
 └── Plugins/         # Plugin extensions
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Environment Requirements
 - Windows 7/8/10/11
@@ -94,7 +80,7 @@ TalismanOnline/
 3. Use corresponding tools to view models or edit maps
 4. Refer to documentation for file formats and technical details
 
-## 🤝 Contribution Guidelines
+## Contribution Guidelines
 
 We welcome all friends interested in TalismanOnline technology to participate and contribute!
 
@@ -112,25 +98,25 @@ We welcome all friends interested in TalismanOnline technology to participate an
 - 🎨 **Resource Sharing**: Share new model or map resources
 - 🔧 **Tool Development**: Develop new practical tools
 
-## 💬 Technical Communication
+## Technical Communication
 
 - **Issues**: Use GitHub Issues to report problems or make suggestions
 - **Discussions**: Participate in technical discussions and experience sharing
 - **Wiki**: View and edit project wiki documentation
 
-## ⚠️ Important Notes
+## Important Notes
 
-**Important Reminders**:
+⚠️ **Important Reminders**:
 - This project is for learning and research purposes only
 - Please do not use project resources for commercial purposes
 - Respect the intellectual property rights of the original game
 - Please comply with relevant laws and regulations when sharing content
 
-## 📄 License
+## License
 
 This project adopts the MIT License - view the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Thanks to all friends who have contributed to this project, and to the hard work of the TalismanOnline game development team.
 
