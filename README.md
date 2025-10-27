@@ -23,36 +23,6 @@ This is an open project focused on sharing **TalismanOnline** (Chinese name: **�
 
 TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy style, rich career systems, and exciting PVP gameplay. The game uses advanced 3D engine technology, featuring exquisite character models, grand scene maps, and smooth combat systems.
 
-## 📁 Project Directory Structure
-
-### 🛠️ Tools/ - Development Tools
-Contains various game development and analysis tools:
-- **EVP Commercial Cracked Version**: Game client analysis tool
-- **Game UI Editor**: User interface editing tool
-- **SNW Text Extractor**: SNW file text extraction tool
-- **ZUAtoEVA**: File format conversion tool
-- **ZUA Unpacking Tool**: Game resource unpacking tool
-
-### 📚 Tutorials/ - Technical Documentation
-Game development tutorials and reference materials:
-- **Complete API List**: Complete game API documentation
-- **GM Commands**: Game master command reference
-
-### 📝 Scripts/ - Game Scripts
-Various game script files and systems:
-- **DragonSpirit**: Dragon spirit system scripts
-- **LMStanding**: LM standing system scripts
-- **Solo_Ev**: Solo event scripts
-- **SoulSystem**: Soul pet system scripts
-- **Zodiac**: Zodiac system scripts
-- **koffunctions**: Utility function library
-
-### 📂 Other Directories
-- **Models/**: Reserved for 3D model resources (currently empty)
-- **Maps/**: Reserved for map resources (currently empty)
-- **Versions/**: Version management and documentation
-- **Plugins/**: Plugin extensions and add-ons (currently empty)
-
 ## 🛠️ Technology Stack
 
 - **3D Engine**: Self-developed 3D engine with advanced rendering features
