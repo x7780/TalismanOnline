@@ -1,0 +1,58 @@
+
+<Line>
+    <Items>
+	  <Item type="TEXT" text="Next Level " color="#ffa6a845" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="TEXT" text="$L:zdc_dt_xNUM1$" color="#ffff5050" />
+	</Items>
+</Line>
+<Line/>
+<Line>
+	<Items>
+		<Item type="TEXT" text="item neeed: " color="#ffa6a845" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="IMAGE"><Image File="ic_6sn80818qfl5"/></Item>
+		<Item type="TEXT" text="     $L:zdc_dt_ndd1_xNUM1$ " color="#ffff5050" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="TEXT" text="                       have: $_Item1"/>
+	</Items>
+</Line>
+
+<Line>
+	<Items>
+		<Item type="IMAGE"><Image File="ic_8tlggp0580l1"/></Item>
+		<Item type="TEXT" text="    $L:zdc_dt_ndd2_xNUM1$" color="#ffff5050" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="TEXT" text="                       have: $_Item2"/>
+	</Items>
+</Line>
+<Line/>
+<Line>
+	<Items>
+		<Item type="TEXT" text="rate: " color="#ffa6a845" />
+		<Item type="TEXT" text="$L:zdc_rate_xNUM1$%" color="#ffff0000" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="IMAGE">
+			<Image File="ic_1zu2677545s2"/>
+		</Item>
+	<Item type="TEXT" text=" Luck : $_LUCKPER%" />	
+	</Items>
+</Line>
+<Line/>
+<Line><Items><Item type="TEXT" text="Upgrade" hlink="String:NpcDialog:UPDATE+xNUM1?npc=$NPC_OBJID" font="title" fontsize="20" /></Items></Line>
+

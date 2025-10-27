@@ -1,0 +1,30 @@
+
+<Line>
+    <Items>
+	  <Item type="TEXT" text="Next Level " color="#ffa6a845" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="TEXT" text="$L:drg_dt_xdNUM1$" color="#ffff5050" />
+	</Items>
+</Line>
+<Line/>
+<Line>
+	<Items>
+		<Item type="TEXT" text="item neeed: " color="#ffa6a845" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="IMAGE"><Image File="ic_dragonsoul"/></Item>
+		<Item type="TEXT" text="     $L:drg_dt_ndd1_xdNUM1$ " color="#ffff5050" />
+	</Items>
+</Line>
+<Line>
+	<Items>
+		<Item type="TEXT" text="                       have: $_dItem1"/>
+	</Items>
+</Line>
+<Line/>
+<Line><Items><Item type="TEXT" text="Level Up" hlink="String:NpcDialog:UPDATE+xdNUM1?npc=$NPC_OBJID" font="title" fontsize="20" /></Items></Line>
