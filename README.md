@@ -23,31 +23,35 @@ This is an open project focused on sharing **TalismanOnline** (Chinese name: **�
 
 TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy style, rich career systems, and exciting PVP gameplay. The game uses advanced 3D engine technology, featuring exquisite character models, grand scene maps, and smooth combat systems.
 
-## 📁 Project Content
+## 📁 Project Directory Structure
 
-### 🎮 Game Model Resources
-- **Character Models**: 3D models of various professions, including warriors, mages, priests, etc.
-- **Equipment Models**: 3D models of weapons, armor, accessories, and other equipment
-- **Monster Models**: Various monsters and boss models in the game
-- **Mount Models**: Various mounts and pet models
+### 🛠️ Tools/ - Development Tools
+Contains various game development and analysis tools:
+- **EVP Commercial Cracked Version**: Game client analysis tool
+- **Game UI Editor**: User interface editing tool
+- **SNW Text Extractor**: SNW file text extraction tool
+- **ZUAtoEVA**: File format conversion tool
+- **ZUA Unpacking Tool**: Game resource unpacking tool
 
-### 🗺️ Map Resources
-- **Scene Maps**: Map data of various scenes in the game
-- **Terrain Data**: Height maps, texture maps, and other terrain-related information
-- **Building Models**: 3D models of buildings and landmarks in the game
-- **Environmental Elements**: Environmental decoration models such as vegetation, rocks, water bodies, etc.
+### 📚 Tutorials/ - Technical Documentation
+Game development tutorials and reference materials:
+- **Complete API List**: Complete game API documentation
+- **GM Commands**: Game master command reference
 
-### 💻 Technical Documentation
-- **Client Technology**: Game client architecture, rendering technology, resource management
-- **Server Technology**: Server architecture, network communication, database design
-- **File Formats**: Game resource file format parsing
-- **Tool Development**: Model viewers, map editors, resource extraction tools
+### 📝 Scripts/ - Game Scripts
+Various game script files and systems:
+- **DragonSpirit**: Dragon spirit system scripts
+- **LMStanding**: LM standing system scripts
+- **Solo_Ev**: Solo event scripts
+- **SoulSystem**: Soul pet system scripts
+- **Zodiac**: Zodiac system scripts
+- **koffunctions**: Utility function library
 
-### 🔧 Development Tools
-- **Model Tools**: 3D model viewing, conversion, and editing tools
-- **Map Tools**: Map editors, scene building tools
-- **Resource Tools**: Resource extraction, packaging, and unpacking tools
-- **Debug Tools**: Game debugging and performance analysis tools
+### 📂 Other Directories
+- **Models/**: Reserved for 3D model resources (currently empty)
+- **Maps/**: Reserved for map resources (currently empty)
+- **Versions/**: Version management and documentation
+- **Plugins/**: Plugin extensions and add-ons (currently empty)
 
 ## 🛠️ Technology Stack
 
@@ -57,28 +61,17 @@ TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy sty
 - **File Formats**: Custom resource formats, standard 3D format support
 - **Network Technology**: TCP/IP, UDP network communication
 
-## 📂 Project Structure
+## 📂 Actual Project Structure
 
 ```
 TalismanOnline/
-├── Models/          # 3D model resources
-│   ├── Characters/  # Character models
-│   ├── Monsters/    # Monster models
-│   ├── Weapons/     # Weapon models
-│   └── Environments/# Environment models
-├── Maps/            # Map resources
-│   ├── Terrains/    # Terrain data
-│   ├── Buildings/   # Building models
-│   └── Scenes/      # Scene data
-├── Tools/           # Development tools
-│   ├── ModelViewer/ # Model viewer
-│   ├── MapEditor/   # Map editor
-│   └── Extractor/   # Resource extraction tool
-├── Versions/        # Version management
-├── Scripts/         # Script tools
-│   ├── Python/      # Python scripts
-│   └── Shell/       # Shell scripts
-└── Plugins/         # Plugin extensions
+├── Tools/           # Game development and analysis tools (5 tools)
+├── Tutorials/       # Technical documentation (2 files)
+├── Scripts/         # Game system scripts (6 script packages)
+├── Versions/        # Version management (documentation only)
+├── Models/          # Reserved for 3D models (currently empty)
+├── Maps/            # Reserved for map resources (currently empty)
+└── Plugins/         # Plugin extensions (currently empty)
 ```
 
 ## 🚀 Quick Start
@@ -90,10 +83,10 @@ TalismanOnline/
 - DirectX 9.0c+ or OpenGL 3.0+
 
 ### Basic Usage
-1. Clone the project locally
-2. Install necessary dependencies and runtime environment
-3. Use corresponding tools to view models or edit maps
-4. Refer to documentation for file formats and technical details
+1. Browse the Tools/ directory to find game development tools
+2. Check Tutorials/ for API documentation and GM commands
+3. Review Scripts/ for game system implementations
+4. Each subdirectory contains its own README files in multiple languages
 
 ## 🤝 Contribution Guidelines
 
