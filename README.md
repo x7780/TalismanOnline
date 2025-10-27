@@ -128,6 +128,17 @@ This project adopts the MIT License - view the [LICENSE](LICENSE) file for detai
 
 Thanks to all friends who have contributed to this project, and to the hard work of the TalismanOnline game development team.
 
+## 🎮 Sponsored Servers
+
+| Server Name | Website | Description |
+|-------------|---------|-------------|
+| Talisman Online | [Website](https://example.com) | Classic official server |
+| 蜀门怀旧版 | [Website](https://example.com) | Nostalgic version |
+| Talisman Private | [Website](https://example.com) | Community server |
+| 蜀门私服 | [Website](https://example.com) | Chinese private server |
+
+**Want to add your server?** Submit a PR or open an issue with your server details!
+
 ---
 
 **Disclaimer**: This project is for technical research and learning exchange purposes. All game resource copyrights belong to the original game developers. Please use the resources of this project in compliance with relevant laws and regulations.
