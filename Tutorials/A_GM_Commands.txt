@@ -1,0 +1,110 @@
+-var ItemDropRate = XX 物品掉落率
+-var GoldDropRate = XX 金钱掉落率
+-var ExpRate = XX 经验倍率
+-var NimbusRate = XX 灵气倍率 
+pointshopupdate 刷新商城数据  重新加载 重新刷新商城数据 直接刷新商城数据
+-startwar 开始国战 
+-endwar   结束国战 
+-createnpc 6846
+-createnpc 5676
+-additem 555 1 golden 20
+
+-info      查看状态,查看信息
+-setlev 90    设置人物等级
+-wsetlev   设置武功等级
+-addnimbus 增加灵气
+-addmoney  增加金钱 格式: -addmoney 数量 10000=1J
+-additem   刷装备   格式: -additem 装备ID 数量 颜色(白=white 绿=green 金=golden) 强化等级 bind = 3600 时间(3600秒=1小时) 
+
+金装  -additem 装备ID 数量 goldenplus 强化等级
+蓝装  -additem 566 数量1 blueplus   强化等级
+绿装：-additem 装备ID 数量 greenplus  强化等级
+白装  -additem 93 1 whiteplus  20
+
+金装强化石  -additem 4052 数量
+蓝装强化石  -additem 4053 数量
+绿装强化石-additem 4054 数量
+白装强化石  -additem 5768 数量
+
+hide 隐身
+show 取消隐身
+moveto 传送到地点
+follow 传送到玩家
+see 查看玩家
+recover 恢复HP和MP
+-bulletin www.ltsj78.com 国战公告45级以上客户端接收 国战公告
+-bulletingroup  国战公告客户端高草公告
+-bulletincd 国战公告客户端高草的倒计时时间 
+moveuser 将玩家移动到自己身边
+movearound 在指定玩家周围范围移动到自己身边
+moveacct 将指定账号的玩家移动到自己身边
+kick 踢掉玩家
+ban 禁止
+unban 解除禁止
+clearpk,清除指定人PK值
+guildname,修改人物公会名
+accept,是否接受登录
+introbot 增加一个机器人
+info 查看状态,查看信息
+-createnpc 5694创建npc 
+removenpc 移除npc 
+clearentertip 清除进入公告
+setentertip 设置进入公告
+entertip 查看进入公告
+-startwar 开始国战
+-endwar   结束国战
+setwarflag 设定国战旗
+viewwarflag
+-updatewartime 修改国战时间
+setlev  设置人物等级
+wsetlev 设置武功等级
+addexp  增加经验
+addcredit 增加积分 使用方式未知
+addnimbus 增加灵气  addnimbus 数量
+addskill 增加技能
+addskillexp 增加技能经验值
+removeskill 删除技能  removeskill 技能ID 或 1
+clearskill 清空技能
+addeffect 增加Buffer
+cleareffect 清除Buffer
+addenjoyrate 增加快乐度 未知功能
+setpetlev  设定宠物等级
+setsmallpetlev 设定灵兽等级
+setsmallpetexp 增加灵兽经验
+guilddestroy,强制公会解散,4
+acct  未知功能
+actor 未知功能
+设置最大在线    setmaxuser
+关闭游戏服务器  shutdown
+增加金钱 addmoney 格式: -addmoney 数量   10000=1J
+刷装备  additem   格式: -additem 装备ID 数量 颜色(白=white 绿=green 金=golden 白装whiteplus) 强化等级 bind 0 0 时间(3600秒=1小时) 
+worldadditem,全服玩家在线获得物品,6
+auction,拍卖行管理,5
+addteacherpoint,增加师德值,5
+loadipspecial,加载ip优化列表,4
+
+设置元神等级setgodlev 
+疲劳度管理 tired 
+禁言指定玩家 mute mutefive 
+刷新客户端数据 refreshitem 
+取得交易代码 get_trade_code 
+检查点卡 card_check 
+充值点卡 card_saving loginsql lsql setip 
+增加点数 point_add 
+取得当前点数 point_get 
+预扣点数 point_pre 
+扣除点数 point_sub 
+清除当日积分 dscoreclear 
+服务器立即执行脚本 svrscript 
+增加一个跟班 addunderling 
+查看系统反馈 viewfb 
+开始世界事件 startworldevent Play time control 
+清除死亡时间 cleardietime 
+查看国战公告 guildt 
+增加称号 inserttitle 
+移除称号 removetitle 
+发送邮件 sendmail 
+增加物品Ex additem_ex Auction operate auction_each buy auction points buypoint set auto buyer setautobuyer 
+
+updatewartime
+startwar

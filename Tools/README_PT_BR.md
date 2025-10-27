@@ -16,6 +16,7 @@
 ---
 
 ## Lista de Ferramentas:
-- **`EVP_Commercial_Cracked_Version.rar`** - Ferramenta de desempacotamento do Game 207 para extrair arquivos de jogos de arquivos criptografados
-- **`Game UI Editor-[RaGEZONE].zip`** - Editor de UI do jogo para modificar elementos da interface do usuário e componentes HUD
-- **`ZUAtoEVA.7z`** - Converte arquivos de modelo ZUA para formato EVA para uso no desenvolvimento de jogos
+- **`A_EVP_Commercial_Cracked_Version.rar`** - Ferramenta de desempacotamento do Game 207 para extrair arquivos de jogos de arquivos criptografados
+- **`A_Game UI Editor-[RaGEZONE].zip`** - Editor de UI do jogo para modificar elementos da interface do usuário e componentes HUD
+- **`A_ZUAtoEVA.7z`** - Converte arquivos de modelo ZUA para formato EVA para uso no desenvolvimento de jogos
+- **`A_zua_unpacking_tool.zip`** - Ferramenta de desempacotamento de arquivos ZUA para extração e análise de conteúdo de arquivos ZUA

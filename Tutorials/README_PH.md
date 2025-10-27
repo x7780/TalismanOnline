@@ -1,10 +1,10 @@
-# Mga Tutorial Directory
+# Direktoryo ng Mga Tutorial
 
-## 🌐 Wika / 语言 / Idioma / Language
+## 🌐 Wika / Language / 语言 / Idioma
 
 <div align="center">
 
-**Piliin ang Wika / 选择语言 / Escolha o Idioma / Choose Language:**
+**Piliin ang Wika / Choose Language / 选择语言 / Escolha o Idioma:**
 
 [![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README.md)
 [![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README_CN.md)
@@ -15,5 +15,6 @@
 
 ---
 
-## 📋 Pangkalahatan
-Ang direktoryong ito ay naglalaman ng mga komprehensibong tutorial, gabay, at mga materyales sa edukasyon para sa pag-aaral ng TalismanOnline game development at pagsusuri ng assets.
+## Listahan ng Mga Tutorial:
+- **`A_GM_Commands.txt`** - Kumpletong listahan ng mga Game Master command at ang paggamit nila
+- **`A_Complete_API_List.txt`** - Komprehensibong API reference na dokumentasyon
