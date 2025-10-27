@@ -18,5 +18,6 @@
 ## Listahan ng Kasangkapan:
 - **`A_EVP_Commercial_Cracked_Version.rar`** - Game 207 unpacking tool para sa pag-extract ng mga file ng laro mula sa encrypted na archive
 - **`A_Game UI Editor-[RaGEZONE].zip`** - Game UI editor para sa pagbago ng mga elemento ng user interface at HUD components
+- **`A_SNW Text Extractor-[RaGEZONE].zip`** - SNW info tool para sa pag-extract at pag-aanalisa ng text data mula sa SNW files
 - **`A_ZUAtoEVA.7z`** - Nagko-convert ng ZUA model files patungong EVA format para sa paggamit sa game development
 - **`A_zua_unpacking_tool.zip`** - ZUA file unpacking tool para sa pag-extract at pag-aanalisa ng mga ZUA archive content
