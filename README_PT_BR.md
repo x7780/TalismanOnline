@@ -15,8 +15,6 @@
 
 ## 📋 Visão Geral do Projeto
 
-**🤖 Projeto Mantido por IA** - Nosso sistema de IA coleta e organiza continuamente artigos, ferramentas, versões e recursos relevantes da internet sobre TalismanOnline. O conteúdo é automaticamente atualizado periodicamente para garantir que você obtenha as informações mais recentes e completas.
-
 Este é um projeto de código aberto mantido por IA, focado em compartilhar tecnologias, modelos, mapas e outros recursos relevantes do **TalismanOnline**. Nosso sistema de IA coleta, organiza e compartilha automaticamente materiais técnicos relacionados ao desenvolvimento do TalismanOnline de várias fontes na internet, fornecendo recursos valiosos de aprendizado para entusiastas de desenvolvimento de jogos e pesquisadores de tecnologia. O conteúdo do projeto é atualizado automaticamente periodicamente para garantir frescor e completude.
 
 ## 🎮 Sobre o TalismanOnline

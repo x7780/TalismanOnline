@@ -15,8 +15,6 @@
 
 ## 📋 Pangkalahatang-ideya ng Proyekto
 
-**AI-Maintained na Proyekto** - Ang aming AI system ay patuloy na nangongolekta at nag-oorganisa ng mga kaugnay na artikulo, tool, bersyon, at mapagkukunan mula sa internet tungkol sa TalismanOnline. Ang nilalaman ay awtomatikong ina-update paminsan-minsan upang matiyak na makakakuha ka ng pinakabagong at pinakakumpletong impormasyon.
-
 Ito ay isang bukas na proyekto na pinapanatili ng AI na nakatuon sa pagbabahagi ng mga kaugnay na teknolohiya, modelo, mapa, at iba pang mapagkukunan ng **TalismanOnline**. Ang aming AI system ay awtomatikong nangongolekta, nag-oorganisa, at nagbabahagi ng mga teknikal na materyales na may kaugnayan sa pagbuo ng TalismanOnline mula sa iba't ibang mapagkukunan sa internet, na nagbibigay ng mahahalagang mapagkukunan ng pag-aaral para sa mga tagahanga ng pagbuo ng laro at mga mananaliksik sa teknolohiya. Ang nilalaman ng proyekto ay awtomatikong ina-update paminsan-minsan upang matiyak ang kalinisan at pagkakumpleto.
 
 ## 🎮 Tungkol sa TalismanOnline
