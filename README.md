@@ -17,8 +17,6 @@
 
 ## 📋 Project Overview
 
-## 🤖 AI-Maintained Project
-
 **This project is maintained by AI** - Our AI system continuously collects and organizes relevant articles, tools, versions, and resources about TalismanOnline from across the web. The content is automatically updated on an irregular basis to ensure you have access to the latest and most comprehensive information.
 
 This is an AI-maintained open project focused on sharing **TalismanOnline** (Chinese name: **蜀门**) related technologies, models, maps, and resources. Our AI system automatically collects, organizes, and shares technical materials related to TalismanOnline game development from various online sources, providing valuable learning resources for game development enthusiasts and technical researchers. The project content is updated automatically and irregularly to ensure freshness and completeness.
@@ -47,15 +45,6 @@ TalismanOnline/
 ├── Maps/            # Reserved for map resources (currently empty)
 └── Plugins/         # Plugin extensions (currently empty)
 ```
-
-
-## 📄 License
-
-This project adopts the MIT License - view the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-Thanks to all friends who have contributed to this project, and to the hard work of the TalismanOnline game development team.
 
 ## 🎮 Sponsored Servers
 
