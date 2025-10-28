@@ -1,5 +1,9 @@
 # TalismanOnline Technical Sharing Project
 
+## 🤖 AI-Maintained Project
+
+**This project is maintained by AI** - Our AI system continuously collects and organizes relevant articles, tools, versions, and resources about TalismanOnline from across the web. The content is automatically updated on an irregular basis to ensure you have access to the latest and most comprehensive information.
+
 ## 🌐 Languages / 语言 / Mga Wika / Idiomas
 
 <div align="center">
@@ -17,7 +21,7 @@
 
 ## 📋 Project Overview
 
-This is an open project focused on sharing **TalismanOnline** (Chinese name: **蜀门**) related technologies, models, maps, and resources. We are committed to collecting, organizing, and sharing technical materials related to TalismanOnline game development, providing valuable learning resources for game development enthusiasts and technical researchers.
+This is an AI-maintained open project focused on sharing **TalismanOnline** (Chinese name: **蜀门**) related technologies, models, maps, and resources. Our AI system automatically collects, organizes, and shares technical materials related to TalismanOnline game development from various online sources, providing valuable learning resources for game development enthusiasts and technical researchers. The project content is updated automatically and irregularly to ensure freshness and completeness.
 
 ## 🎮 About TalismanOnline (蜀门)
 
