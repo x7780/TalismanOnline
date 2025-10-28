@@ -44,51 +44,6 @@ TalismanOnline/
 └── Plugins/         # Plugin extensions (currently empty)
 ```
 
-## 🚀 Quick Start
-
-### Environment Requirements
-- Windows 7/8/10/11
-- Visual Studio 2015+ (for compiling C++ tools)
-- Python 3.6+ (for running script tools)
-- DirectX 9.0c+ or OpenGL 3.0+
-
-### Basic Usage
-1. Browse the Tools/ directory to find game development tools
-2. Check Tutorials/ for API documentation and GM commands
-3. Review Scripts/ for game system implementations
-4. Each subdirectory contains its own README files in multiple languages
-
-## 🤝 Contribution Guidelines
-
-We welcome all friends interested in TalismanOnline technology to participate and contribute!
-
-### How to Contribute
-1. **Fork** this project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Contribution Content
-- 🐛 **Bug Fixes**: Fix bugs in tools or documentation
-- ✨ **New Features**: Add new tools or features
-- 📚 **Documentation Improvement**: Improve or supplement technical documentation
-- 🎨 **Resource Sharing**: Share new model or map resources
-- 🔧 **Tool Development**: Develop new practical tools
-
-## 💬 Technical Communication
-
-- **Issues**: Use GitHub Issues to report problems or make suggestions
-- **Discussions**: Participate in technical discussions and experience sharing
-- **Wiki**: View and edit project wiki documentation
-
-## ⚠️ Important Notes
-
-**Important Reminders**:
-- This project is for learning and research purposes only
-- Please do not use project resources for commercial purposes
-- Respect the intellectual property rights of the original game
-- Please comply with relevant laws and regulations when sharing content
 
 ## 📄 License
 
