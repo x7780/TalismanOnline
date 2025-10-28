@@ -1,5 +1,3 @@
-# TalismanOnline Technical Sharing Project
-
 ## 🌐 Languages / 语言 / Mga Wika / Idiomas
 
 <div align="center">
