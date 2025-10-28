@@ -25,14 +25,6 @@ This is an AI-maintained open project focused on sharing **TalismanOnline** (Chi
 
 TalismanOnline is a classic MMORPG game known for its unique Eastern fantasy style, rich career systems, and exciting PVP gameplay. The game uses advanced 3D engine technology, featuring exquisite character models, grand scene maps, and smooth combat systems.
 
-## 🛠️ Technology Stack
-
-- **3D Engine**: Self-developed 3D engine with advanced rendering features
-- **Programming Languages**: C++, C#, Python
-- **Graphics Technology**: DirectX, OpenGL, Shader programming
-- **File Formats**: Custom resource formats, standard 3D format support
-- **Network Technology**: TCP/IP, UDP network communication
-
 ## 📂 Actual Project Structure
 
 ```
