@@ -1,18 +1,3 @@
-## 🌐 Languages / 语言 / Mga Wika / Idiomas
-
-<div align="center">
-
-**Choose your language / 选择语言 / Piliin ang iyong wika / Escolha seu idioma:**
-
-[![English](https://img.shields.io/badge/English-EN-blue?style=flat-square)](README.md)
-[![中文](https://img.shields.io/badge/中文-CN-red?style=flat-square)](README_CN.md)
-[![Filipino](https://img.shields.io/badge/Filipino-PH-green?style=flat-square)](README_PH.md)
-[![Português (BR)](https://img.shields.io/badge/Português%20(BR)-BR-yellow?style=flat-square)](README_PT_BR.md)
-
-</div>
-
----
-
 ## 📋 Project Overview
 
 This is an AI-maintained open project focused on sharing **TalismanOnline** (Chinese name: **蜀门**) related technologies, models, maps, and resources. Our AI system automatically collects, organizes, and shares technical materials related to TalismanOnline game development from various online sources, providing valuable learning resources for game development enthusiasts and technical researchers. The project content is updated automatically and irregularly to ensure freshness and completeness.
